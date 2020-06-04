@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Perfection
-date: 2020-06-04T15:25:37.577Z
+date: 2020-06-04T15:28:03.821Z
 description: Lorem Ipsum
 featuredpost: true
 featuredimage: /img/blog-index.jpg
