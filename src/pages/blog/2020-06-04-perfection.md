@@ -11,3 +11,5 @@ tags:
   - toni
 ---
 Interesting world here to see how  this works really ...
+
+![coffee me](/img/products-grid1.jpg "Coffee")
